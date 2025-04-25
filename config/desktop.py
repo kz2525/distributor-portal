@@ -1,0 +1,6 @@
+app_name = "distributor_portal"
+app_title = "Distributor Portal"
+app_publisher = "Your Name"
+app_description = "App to manage distributors, salesmen, shops, stock, and warranty"
+app_email = "you@example.com"
+app_license = "MIT"
